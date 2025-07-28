@@ -1,7 +1,7 @@
 import random
 numeroRandom=random.randint(1,100)
 cont=3;
-print(f"Random integer: {numeroRandom}")
+#print(f"Random integer: {numeroRandom}")
 print("Estoy pensando en un numero del 1 al 100...")
 while(cont!=0):
     numeroUsuario=int(input("Ingrese un numero para adivinar que numero piensa la maquina, tenes 3 intentos"))
